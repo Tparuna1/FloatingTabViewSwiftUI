@@ -28,9 +28,11 @@ git clone https://github.com/Tparuna1/FloatingTabViewSwiftUI.git
 
 - Open the project in Xcode:
 
-cd FloatingTabViewSwiftUI
+ cd FloatingTabViewSwiftUI
+  
 open FloatingTabViewSwiftUI.xcodeproj
-Run the project on a simulator or device.
+  
+ Run the project on a simulator or device.
 
 # Customization
 
