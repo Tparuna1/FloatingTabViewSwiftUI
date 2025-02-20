@@ -38,7 +38,7 @@ Modify the background color, icons, spacing, or animation in CustomTabBar.swift.
 
 # License
 
-This project is open-source.
+This project is open to use.
 
 # Author
 
