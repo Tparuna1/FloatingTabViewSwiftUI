@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/40c8e136-208c-4cb9-b090-d75dc11a2bf5
 
 - Clone the repository:
 
-git clone https: https://github.com/Tparuna1/FloatingTabViewSwiftUI.git
+git clone https://github.com/Tparuna1/FloatingTabViewSwiftUI.git
 
 - Open the project in Xcode:
 
